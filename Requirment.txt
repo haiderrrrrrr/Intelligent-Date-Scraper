@@ -1,0 +1,8 @@
+1. First install python and set its path in environemnt variables
+
+2. Open an IDE like vs code and then run this commnand below
+pip install flask requests beautifulsoup4 dateparser pandas openpyxl fpdf gunicorn aiohttp selenium webdriver-manager
+
+3. Then in vs terminal, run python app.py and navigate to http://127.0.0.1:5000/ to open the app
+
+4. Enjoy!!!!!!
